@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anne Haines, Web Developer, launches site"
+title: "Anne Haines, Pretend Web Developer, launches site"
 date: 2018-02-27
 ---
 
