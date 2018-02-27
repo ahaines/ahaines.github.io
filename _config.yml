@@ -1,2 +1,3 @@
-name: Anne's Happy Github Page
+name: Anne's Happy Github Pages
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
